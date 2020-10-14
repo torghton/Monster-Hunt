@@ -1,0 +1,7 @@
+{
+  "images": [
+    {"id" : 1, "directory" :  "Images/Weapons/Bows/BowImg.png"},
+    {"id" : 2, "directory" :  "Images/Entities/Monsters/Goblin/GoblinStand.png"},
+    {"id" : 3, "directory" :  "Images/Environment/Paths/DirtPath/DirtPath.png"}
+  ]
+}
